@@ -4,3 +4,4 @@
 #### THIS IS AN H4 HEADER
 ##### THIS IS AN H5 HEADER
 ###### THIS IS AN H5 HEADER
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
